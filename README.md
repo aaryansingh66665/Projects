@@ -1,6 +1,6 @@
 # Library Management System
 
-A system designed to manage library resources efficiently, including book tracking and user management.
+This folder contains many project of different languages. it maybe basic level or advance level
 
 ## Installation
 
