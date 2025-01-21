@@ -1,4 +1,4 @@
-# Library Management System
+# Project Respo
 
 This folder contains many project of different languages. it maybe basic level or advance level
 
@@ -12,7 +12,7 @@ git clone https://github.com/aaryansingh66665/Projects.git
 
 cd Projects/Library-Management-System
 
-##                Install dependencies:
+## Install dependencies:
 
 npm install  # or pip install -r requirements.txt
 
